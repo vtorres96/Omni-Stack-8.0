@@ -14,14 +14,12 @@ $ cd backend
 
 ```sh
 $ yarn
-$ yarn dev
 ```
 
 ### npm
 
 ```sh
 $ npm install
-$ npm run start
 ```
 
 ## How to run application
